@@ -1,6 +1,9 @@
 # reproduce-fastify-response-caching-content-type
 
-Repo to reproduce an issue in fastify-response-caching
+Repo to reproduce this issue in `fastify-response-caching`:
+
+https://github.com/codeaholicguy/fastify-response-caching/issues/9
+
 
 ## Steps to reproduce:
 1. git clone https://github.com/csarnataro/reproduce-fastify-response-caching-content-type.git
